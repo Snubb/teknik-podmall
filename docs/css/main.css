@@ -32,6 +32,8 @@ footer {
 .content {
     margin: 1em 4em;
     width: 40em;
+    margin-right: auto;
+    margin-left: auto;
 }
 
 /* Small Devices, Tablets */
